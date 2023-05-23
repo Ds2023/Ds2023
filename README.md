@@ -1,13 +1,10 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)]
-<h1 align="center">Hi 👋, I'm Victor Nduti</h1>
-<h3 align="center">Data Scientist in Kenya</h3>
-<img align=“right” alt=“Coding” width=“400” src="https://mindlercareerlibrarynew.imgix.net/10B-Statistics.png?w=800”>
+[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)]
+<h1 align="left">Hi 👋, I'm Victor Nduti</h1>
+<h3 align="left">Data Scientist in Kenya</h3>
 
 - 🔭 I’m currently working on **Track Back**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
-
-- 👯 I’m looking to collaborate on **Anything and everything Data related**
 
 - 💬 Ask me about **Python,SQL,Matplotlib**
 
