@@ -1,8 +1,8 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/infographics-charts-graphics-diagrams-on-260nw-177377594.jpg)]
+![MasterHead](https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg)
 <h1 align="left">Hi 👋, I'm Victor Nduti</h1>
 <h3 align="left">Data Scientist in Kenya</h3>
 
-- 🔭 I’m currently working on **Track Back**
+<img align="right" alt="Coding" width="400" src="https://www.chitkarauniversity.edu.in/wp-content/uploads/2021/07/data-science-Specialisation-Image.jpg">
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
