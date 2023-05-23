@@ -1,5 +1,5 @@
 ![MasterHead](https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg)
-<h1 align="left">Hi 👋, I'm Victor Nduti</h1>
+<h1 align="left">Hi 👋, I'm Nduti</h1>
 <h3 align="left">Data Scientist in Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.chitkarauniversity.edu.in/wp-content/uploads/2021/07/data-science-Specialisation-Image.jpg">
